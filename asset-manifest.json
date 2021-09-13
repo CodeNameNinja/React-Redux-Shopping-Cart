@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Redux-Shopping-Cart/static/css/main.c266e2a6.chunk.css",
+    "main.js": "/React-Redux-Shopping-Cart/static/js/main.b533edcb.chunk.js",
+    "main.js.map": "/React-Redux-Shopping-Cart/static/js/main.b533edcb.chunk.js.map",
+    "runtime-main.js": "/React-Redux-Shopping-Cart/static/js/runtime-main.3f1810fd.js",
+    "runtime-main.js.map": "/React-Redux-Shopping-Cart/static/js/runtime-main.3f1810fd.js.map",
+    "static/js/2.4f805c52.chunk.js": "/React-Redux-Shopping-Cart/static/js/2.4f805c52.chunk.js",
+    "static/js/2.4f805c52.chunk.js.map": "/React-Redux-Shopping-Cart/static/js/2.4f805c52.chunk.js.map",
+    "index.html": "/React-Redux-Shopping-Cart/index.html",
+    "static/css/main.c266e2a6.chunk.css.map": "/React-Redux-Shopping-Cart/static/css/main.c266e2a6.chunk.css.map",
+    "static/js/2.4f805c52.chunk.js.LICENSE.txt": "/React-Redux-Shopping-Cart/static/js/2.4f805c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f1810fd.js",
+    "static/js/2.4f805c52.chunk.js",
+    "static/css/main.c266e2a6.chunk.css",
+    "static/js/main.b533edcb.chunk.js"
+  ]
+}
