@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Redux-Shopping-Cart/static/css/main.37fc6703.chunk.css",
-    "main.js": "/React-Redux-Shopping-Cart/static/js/main.e67aff61.chunk.js",
-    "main.js.map": "/React-Redux-Shopping-Cart/static/js/main.e67aff61.chunk.js.map",
+    "main.js": "/React-Redux-Shopping-Cart/static/js/main.c62b8816.chunk.js",
+    "main.js.map": "/React-Redux-Shopping-Cart/static/js/main.c62b8816.chunk.js.map",
     "runtime-main.js": "/React-Redux-Shopping-Cart/static/js/runtime-main.3f1810fd.js",
     "runtime-main.js.map": "/React-Redux-Shopping-Cart/static/js/runtime-main.3f1810fd.js.map",
     "static/js/2.2ec910e3.chunk.js": "/React-Redux-Shopping-Cart/static/js/2.2ec910e3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3f1810fd.js",
     "static/js/2.2ec910e3.chunk.js",
     "static/css/main.37fc6703.chunk.css",
-    "static/js/main.e67aff61.chunk.js"
+    "static/js/main.c62b8816.chunk.js"
   ]
 }
